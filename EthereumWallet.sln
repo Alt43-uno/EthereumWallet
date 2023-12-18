@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EthereumWallet", "EthereumWallet.csproj", "{35BECD01-5607-4B99-8A95-B3CDD637EAF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BECD01-5607-4B99-8A95-B3CDD637EAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BECD01-5607-4B99-8A95-B3CDD637EAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BECD01-5607-4B99-8A95-B3CDD637EAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BECD01-5607-4B99-8A95-B3CDD637EAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AF22FE5-3B57-4D3F-B338-19E7A733B330}
+	EndGlobalSection
+EndGlobal
